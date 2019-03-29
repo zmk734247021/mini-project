@@ -1,0 +1,5 @@
+# your virtual env folder:
+flask_venv/
+# the instance/ folder containing our secret stuff!
+instance/
+# anything else you want git to ignore, add here:
